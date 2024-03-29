@@ -1,4 +1,4 @@
-# README for Smart Battery Monitoring System Project
+# Smart Battery Monitoring System Project
 
 ## Overview
 This repository contains the code and models developed for a smart battery monitoring system. The system is controlled via voice commands to start/stop monitoring the battery status of IoT devices. Utilizing TensorFlow Lite, the project involves various stages, including voice activity detection (VAD), intent detection, and the integration of multiple cloud computing resources. It features a resource-driven design approach, optimizing for memory and latency constraints on IoT devices.
